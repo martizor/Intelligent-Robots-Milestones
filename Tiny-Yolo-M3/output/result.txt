@@ -6,59 +6,6 @@ nms_kind: greedynms (1), beta = 0.600000
  seen 64, trained: 144 K-images (2 Kilo-batches_64) 
 folder input=Images/ and output=output/
 Start processing Images/0.png
-Images/0.png: Predicted in 409.587000 milli-seconds.
+Images/0.png: Predicted in 396.618000 milli-seconds.
 Coke: 87.970299%	left_x:  349	top_y:  164	width:   72	height:  140
-End
-Start processing Images/6.png
-Images/6.png: Predicted in 420.669000 milli-seconds.
-Coke: 91.537811%	left_x:  154	top_y:  166	width:   84	height:  137
-End
-Start processing Images/13.png
-Images/13.png: Predicted in 411.382000 milli-seconds.
-Coke: 86.797592%	left_x:  225	top_y:  171	width:   82	height:  132
-End
-Start processing Images/7.png
-Images/7.png: Predicted in 405.957000 milli-seconds.
-Coke: 90.243576%	left_x:  252	top_y:  169	width:   81	height:  134
-End
-Start processing Images/5.png
-Images/5.png: Predicted in 406.867000 milli-seconds.
-Coke: 97.311378%	left_x:  144	top_y:  139	width:   90	height:  176
-End
-Start processing Images/9.png
-Images/9.png: Predicted in 405.122000 milli-seconds.
-Coke: 76.392403%	left_x:  270	top_y:  190	width:   60	height:  108
-End
-Start processing Images/11.png
-Images/11.png: Predicted in 409.046000 milli-seconds.
-Sheep: 53.475117%	left_x:   -1	top_y:  229	width:   48	height:   49
-Coke: 67.045021%	left_x:  495	top_y:  190	width:   81	height:  107
-End
-Start processing Images/2.png
-Images/2.png: Predicted in 403.234000 milli-seconds.
-Coke: 96.524963%	left_x:  203	top_y:  157	width:   79	height:  151
-End
-Start processing Images/10.png
-Images/10.png: Predicted in 415.893000 milli-seconds.
-Coke: 94.205460%	left_x:  276	top_y:  200	width:   56	height:   92
-End
-Start processing Images/3.png
-Images/3.png: Predicted in 425.225000 milli-seconds.
-Coke: 90.120369%	left_x:  294	top_y:  161	width:   74	height:  144
-End
-Start processing Images/4.png
-Images/4.png: Predicted in 405.476000 milli-seconds.
-Coke: 98.949280%	left_x:  439	top_y:  147	width:   92	height:  166
-End
-Start processing Images/1.png
-Images/1.png: Predicted in 408.279000 milli-seconds.
-Coke: 98.620712%	left_x:  163	top_y:  135	width:   82	height:  184
-End
-Start processing Images/8.png
-Images/8.png: Predicted in 405.751000 milli-seconds.
-Coke: 73.589592%	left_x:  271	top_y:  189	width:   59	height:  110
-End
-Start processing Images/12.png
-Images/12.png: Predicted in 405.012000 milli-seconds.
-Coke: 83.755966%	left_x:  414	top_y:  172	width:   85	height:  131
 End
