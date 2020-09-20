@@ -1,0 +1,4 @@
+#!/bin/bash 
+
+./darknet detector batch cfg/final.data cfg/final.cfg final.weights io_folder Images/ output/ -out output/result.json -ext_output > output/result.txt
+
